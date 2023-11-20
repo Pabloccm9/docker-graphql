@@ -33,4 +33,4 @@ jobs:
 
     - name: Push Docker image
       run: |
-       docker push pmanufront/docker-graphql:0.0.2 .
+       docker push pmanufront/docker-graphql:0.0.2
